@@ -1,3 +1,5 @@
+Docker version taken from: https://github.com/oblogic7/alexa-tts-mqtt and updated with latest script and updated with Amazon UK: https://loetzimmer.de/patches/alexa_remote_control.sh
+
 # alexa-tts-mqtt
 
 Make Alexa speak via MQTT!
