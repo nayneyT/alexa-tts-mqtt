@@ -1,3 +1,4 @@
+#slight edits to the original. Added Amazon UK.
 #https://loetzimmer.de/patches/alexa_remote_control.sh
 
 #!/bin/sh
