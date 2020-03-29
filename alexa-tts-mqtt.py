@@ -1,3 +1,5 @@
+# https://github.com/oblogic7/alexa-tts-mqtt/blob/master/alexa-tts-mqtt.py
+
 import json
 import time
 import paho.mqtt.client as mqtt
