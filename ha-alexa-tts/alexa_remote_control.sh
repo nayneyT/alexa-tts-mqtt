@@ -73,15 +73,23 @@ SET_MFA_SECRET=''
 # something like:
 #  1234 5678 9ABC DEFG HIJK LMNO PQRS TUVW XYZ0 1234 5678 9ABC DEFG
 
-SET_LANGUAGE='de,en-US;q=0.7,en;q=0.3'
+#SET_LANGUAGE='de,en-US;q=0.7,en;q=0.3'
+SET_LANGUAGE='en-GB'
 #SET_LANGUAGE='en-US'
 
-SET_TTS_LOCALE='de-DE'
+#ALEXA='layla.amazon.de'
+#ALEXA='layla.amazon.co.uk'
+ALEXA='pitangui.amazon.com'
 
-SET_AMAZON='amazon.de'
+#SET_TTS_LOCALE='de-DE'
+SET_TTS_LOCALE='en-GB'
+
+#SET_AMAZON='amazon.de'
+SET_AMAZON='amazon.co.uk'
 #SET_AMAZON='amazon.com'
 
-SET_ALEXA='alexa.amazon.de'
+#SET_ALEXA='alexa.amazon.de'
+SET_ALEXA='layla.amazon.co.uk'
 #SET_ALEXA='pitangui.amazon.com'
 
 # cURL binary
